@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "testProject"
-  s.version          = "1.0.0"
+  s.version          = "1.0.1"
   s.summary          = "An user tracker used on iOS."
   s.description      = <<-DESC
                        It is an user tracker used on iOS, which implement by Objective-C.
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   # s.ios.exclude_files = 'Classes/osx'
   # s.osx.exclude_files = 'Classes/ios'
   # s.public_header_files = 'Classes/**/*.h'
-#  s.vendored_frameworks = 'testProject.framework'
+#  s.vendored_frameworks = 'testProsject.framework'
   s.frameworks = 'Foundation'
 
 end
